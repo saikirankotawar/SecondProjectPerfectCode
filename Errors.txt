@@ -1,0 +1,23 @@
+                    Error's
+
+1) the superclass javax.servlet.http.httpservlet was not found
+
+then type above text in google and video url The superclass javax servlet http HttpServlet was not found on the Java Build Path
+
+--> go to properties --> targeted run time --> apachetomact checkbox
+
+refer:
+techdid.com
+plusdigit.com
+
+
+
+http://localhost:8084/FrontEnd1/
+
+
+@RequestMapping("/Register")
+	public String request()
+	{
+		System.out.println("Register page is logged!!!");
+		return "Register";
+	}

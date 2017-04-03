@@ -1,0 +1,77 @@
+<dependency>
+  <groupId>org.apache.tomcat</groupId>
+  <artifactId>tomcat-util</artifactId>
+  <version><!-- version from tomcat-embed-core --></version>
+  <scope>runtime</scope>
+</dependency>
+
+package com.niit.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.backend.dao.UsersDao;
+import com.backend.model.Users;
+
+@Controller
+public class HomeController {
+	
+	@Autowired
+	UsersDao userDao;
+	
+	@RequestMapping("/test")
+	public String Test()
+	{
+		System.out.println("Iam inside the user");
+		Users user=new Users();
+		user.setUsername("saikiran");
+		user.setPassword("sai");
+		userDao.registerUser(user);
+		return "login";
+		
+	}
+	
+	@RequestMapping("/")
+	public String index()
+	{
+		System.out.println("I am a controller");
+		return "index";
+	}
+	@RequestMapping("/login")
+	public String login()
+	{
+		System.out.println("login page is logged!!!");
+		return "login";
+	}
+	@RequestMapping("/Register")
+	public String request()
+	{
+		System.out.println("Register page is logged!!!");
+		return "Register";
+	}
+	@RequestMapping("/Aboutus")
+	public String Aboutus()
+	{
+		System.out.println("About us called");
+		return "Aboutus";
+	}
+	@RequestMapping("/Service")
+	public String Service()
+	{
+		System.out.println("Service is called");
+		return "Service";
+	}
+	@RequestMapping("/contactus")
+     public String contactUs()
+		{
+			System.out.println("conatactus is called");
+			return "contactus";
+		}
+	@RequestMapping("/Connectwithus")
+	public String contactwithus()
+	{
+		System.out.println("connectactwithus is called");
+		return "Connectwithus";
+	}
+	}

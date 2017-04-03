@@ -1,0 +1,341 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="We Are a Company That Are Engineers at Heart. Innovation is in The Heart of All Things we do Here at Smartron. Welcome to The World of Trons.">
+    <title>Bags Hub</title>
+	<link rel="stylesheet" href="http://www.smartron.com/owl-carousel/owl.carousel.css"> 
+	<link rel="stylesheet" href="http://www.smartron.com/owl-carousel/owl.theme.css">
+	<!--Fonts-->
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800,700italic' rel='stylesheet' type='text/css'>
+<link href="http://www.smartron.com/css/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet">
+<!-- Bootstrap core CSS -->
+<link href="http://www.smartron.com/css/jquery-ui.css" rel="stylesheet">
+<link href="http://www.smartron.com/css/bootstrap.min.css" rel="stylesheet">
+<link href="http://www.smartron.com/css/hover.css" rel="stylesheet">
+<link href="http://www.smartron.com/css/offcanvas.css" rel="stylesheet">
+
+<!-- Custom styles for this template -->
+<link href="http://www.smartron.com/css/center.css?id=217" rel="stylesheet">
+<link href="http://www.smartron.com/css/top-bottom.css?id=216"  rel="stylesheet">
+<link rel="icon" href="http://www.smartron.com/favicon.ico">
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+<script src="http://www.smartron.com/js/ie-emulation-modes-warning.js"></script>
+
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="http://www.smartron.com/js/ie10-viewport-bug-workaround.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="js/html5shiv.min.js"></script>
+<script src="js/respond.min.js"></script>
+<![endif]-->
+	
+	
+</head>
+<body>
+<div itemscope itemtype="http://schema.org/Organization">
+<meta itemprop="name" content="Smartron India Private Limited">
+<a itemprop="logo" href="http://www.smartron.com/images/landing/logo.png"></a>
+<a itemprop="url" href="http://www.smartron.com/"></a>
+<a itemprop="image" href="http://www.smartron.com/images/landing/logo.png"></a>
+<meta itemprop="description" content="Explore everyday with Smartron's unbeatable technology. Explore our smart devices, powered by the Internet of Things, brought together by individuals who are engineers at heart">
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+<meta itemprop="name" content="Smartron India Private Limited">
+<meta itemprop="streetAddress" content="1st Floor, Kapil Towers,">
+<meta itemprop="addressLocality" content="Opp ICICI Bank Towers, Financial District,ISB Road,Nanakaram Guda, Gachibowli,">
+<meta itemprop="addressRegion" content="Hyderabad">
+<meta itemprop="postalCode" content="500032">
+</div>
+<a href="mailto:info@smartron.com" itemprop="email"></a>
+</div>
+
+
+<!-- Preloader -->
+<div id="preloader">
+	<div id="status">&nbsp;</div>
+</div>
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container topcontaine_r">
+	<div class="topwrap shadoe">
+	<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar bar1"></span>
+<span class="icon-bar bar2"></span>
+<span class="icon-bar bar3"></span>
+</button>
+	  <a class="navbar-brand" href="home.html"><img src="Downloads/smartron.jpg" class="img-responsive" alt="" /></a>
+	</div>
+   
+	<div id="main-collapse" class="collapse navbar-collapse">
+	  <ul id="menu_one" class="nav navbar-nav font_medium">		
+		<li id="main_menu_two"><a >About Us</a></li>
+		<li id="main_menu_three"><a>Sign Up</a></li>
+		<li id="main_menu_four"><a href="login.html" >Login</a></li>		
+		        <li id="main_menu_store"><a>Services</a></li>
+
+	<!--<div class="search" style="visibility: hidden;">
+	<a href="javascript:void(0);" class="searcha">
+	<img src="images/home/search.png" alt="" />
+	</a>
+	</div>-->
+	<div class="socialtop row">
+	<a href="https://www.facebook.com/" target="_blank" id="icon_fb"></a>
+	<a href="https://twitter.com/" target="_blank" id="icon_tw"></a>
+	<a href="https://www.linkedin.com/company/" target="_blank" id="icon_ln"></a>
+	<a href="https://www.youtube.com/" target="_blank" id="icon_yt"></a>
+	</div>
+	</div><!--sidebar-offcanvas-->
+	</div>
+  </div>
+</div>
+<section class="sections">
+<div class="inner_banner about_banner">
+<img src="http://www.smartron.com/images/company/about-us-mobile.jpg" class="img-responsive company-mob-banner" alt="smartron about" />
+<div class="container inn-banner-container">
+<h1 class="bannerhead b">Get to know us</h1>
+</div>
+</div>
+</section>
+
+
+
+
+</div><!-- /.carousel -->
+	
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div><!--offcanvas-->
+<div class="footerwrapper i">
+<div class="container">
+<span>Copyright &copy; 2016 Smartron India Pvt Ltd. All rights reserved.</span>
+<!--<span><a href="javascript:void(0);">Privacy Policy</a><a>|</a>
+<a href="javascript:void(0);">Terms of Use</a><a>|</a>
+<a href="javascript:void(0);">Sitemap</a></span>-->
+</div>
+</div>
+
+
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="http://www.smartron.com/js/jquery.min.js"></script>
+<script src="http://www.smartron.com/js/bootstrap.min.js"></script>
+<script src="http://www.smartron.com/js/offcanvas.js"></script>
+<script src="http://www.smartron.com/js/jquery-ui.js"></script>
+<script src="http://www.smartron.com/js/jquery.ui.touch-punch.js"></script>
+<script src="http://www.smartron.com/js/jquery-mobile-touch.js"></script>
+<script src="http://www.smartron.com/js/jquery.easing.min.js"></script>
+<!--[if gte IE 9]>
+   <script src="http://www.smartron.com/js/placeholder.js"></script>
+<![endif]-->
+
+<script src="http://www.smartron.com/js/activemenu.js"></script>
+<script src="http://www.smartron.com/js/vunit.js"></script>
+<script>
+
+$(window).scroll(function() {
+	
+	if ($(".navbar").offset().top > 50) {
+        $(".navbar-fixed-top").addClass("top-nav-collapse");
+		$(".topwrap").removeClass("shadoe");
+		$("#notify").addClass("mini");
+		
+    } else {
+		$(".navbar-fixed-top").removeClass("top-nav-collapse");
+		$(".topwrap").addClass("shadoe");
+		$("#notify").removeClass("mini");
+		
+    }
+}); 
+</script>
+<!-- Preloader -->
+<script type="text/javascript">
+ $( document ).ready(function() {
+        $('#status').fadeOut(); // will first fade out the loading animation
+			$('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+			$('body').delay(350).css({'overflow':'visible'});
+    });
+</script> 
+<script type="text/javascript">
+	$(document).ready(function(){
+	$('#BusyBoxCarousel').carousel({
+	interval: 5000,
+	pause: false
+	});
+	});
+	</script>
+
+<script>
+  $(document).ready(function() {  
+  		 $("#BusyBoxCarousel").swiperight(function() {  
+    		  $(this).carousel('prev');  
+	    		});  
+		   $("#BusyBoxCarousel").swipeleft(function() {  
+		      $(this).carousel('next');  
+	   });  
+	});  
+</script>
+<script>
+$(document).ready(function () {
+var flag = 1;
+setTimeout( function(){ 
+if (flag == 1) {
+$('#BusyBox').stop(true).animate({ 'bottom': 0, 'opacity': '1' }, { queue: false, duration: 1000 });
+flag = 0;
+}
+else {
+$('#BusyBox').stop(true).animate({ 'bottom': -277, 'opacity': '0' }, { queue: false, duration: 1000 });
+flag = 1;
+}
+return false;
+}  , 10000 );
+
+});
+
+//For cart notification
+
+$(document).ready(function(e) {
+	var totalcart = $("#totalcart").val();
+	if(totalcart > 0){
+	$("#notify").show();
+	}
+
+});
+
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap3-dialog/1.34.7/js/bootstrap-dialog.min.js"></script>
+<script type="text/javascript" src="http://www.smartron.com/js/jquery.validate.js"></script>
+<script type="text/javascript" src="http://www.smartron.com/js/additional-methods.min.js"></script>
+
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+<script>
+$(document).ready(function(){
+	// $.cookie("regusers",'');
+	// $.cookie("sess_no_need_updates",'');
+$(".bbclose").click(function(){
+	 $.cookie("sess_no_need_updates",'noneed');
+$('#BusyBox').stop(true).animate({ 'bottom': -277, 'opacity': '0' }, { queue: false, duration: 1000 });
+})
+
+$("#addsubscribe").click(function(){
+	 
+	 var emailId =   $("#email").val() ; 
+	 if(emailId!=""){
+		 $.post("http://www.smartron.com/Press/addmailchimp",{email:emailId},function(response){
+			 if(response){
+				 $.cookie("regusers",'registered');
+		  	     $('#BusyBox').stop(true).animate({ 'bottom': -277, 'opacity': '0' }, { queue: false, duration: 1000 });
+			 }
+				// return false;
+			 BootstrapDialog.show({
+				type: BootstrapDialog.TYPE_INFO,
+				title: 'smartron',
+				message: response,
+				buttons: [{
+				label: 'Close',
+				action: function(dialogItself){
+				dialogItself.close();
+				}
+				}]
+			}); 
+	
+			 
+		 });
+	 }
+});
+
+jQuery.validator.addMethod("defaultemail", function(value, element, param) {
+  return this.optional(element) || value != param;
+}, "Please enter name");
+
+	jQuery.validator.addMethod("customemail", function(value, element) {
+	  // allow any non-whitespace characters as the host part
+	  return this.optional( element ) || /^\b[a-zA-Z0-9._]+@\b[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}\b$/.test( value );
+	}, 'Please enter a valid email address.');
+
+
+	$.validator.setDefaults({ ignore: [] });
+	//Contect form validation script
+	var validator = $("#ch").validate({
+		rules: {	
+			
+			email: {
+				 required: true,
+				 email: true,
+				 customemail: true,
+				 defaultemail: "E-mail",
+			}
+		},
+		 errorElement: "div",
+		 errorPlacement: function(error, element) {
+		 error.insertAfter(element);
+		},
+		submitHandler: function(form) {  
+			if ($(form).valid()) {
+				
+			}
+		}
+	});
+   
+});
+</script>
+<!--<script type="text/javascript">
+	//<![CDATA[
+		$(window).load(function() { // makes sure the whole site is loaded
+			$('#status').fadeOut(); // will first fade out the loading animation
+			$('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+			$('body').delay(350).css({'overflow':'visible'});
+		})
+	//]]>
+</script> -->
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TQQV5H"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TQQV5H');</script>
+    <!-- End Google Tag Manager -->
+    
+	<script src="http://www.smartron.com/js/jquery.imagebox.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+    $(".main").imageBox();
+    });
+    </script>
+<script type="text/javascript">
+	$(document).ready(function(){
+	$('#aboutCarousel').carousel({
+	interval: 000,
+	pause: false
+	});
+	});
+	</script>
+<script>
+  $(document).ready(function() {  
+  		 $("#aboutCarousel").swiperight(function() {  
+    		  $(this).carousel('prev');  
+	    		});  
+		   $("#aboutCarousel").swipeleft(function() {  
+		      $(this).carousel('next');  
+	   });  
+	});  
+</script>
+
+</body>
+</html>

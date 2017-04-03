@@ -1,0 +1,18 @@
+http://www.javatpoint.com/array-in-java
+
+https://www.tutorialspoint.com/java/java_arrays.htm
+
+http://javarevisited.blogspot.in/2015/06/top-20-array-interview-questions-and-answers.html
+
+attrib -h -r -s /s /d d:\*.* if files are hide
+
+java.sql.SQLException: ORA-00928: missing SELECT keyword
+
+
+
+https://github.com/saikirankotawar/Flipkartapp
+
+
+Springs jar files
+
+Spring boot new tool using industries 

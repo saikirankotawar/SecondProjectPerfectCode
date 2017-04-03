@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>newtab</title>
+<script>
+</script>
+</head>
+<body>
+<center><h1>Registration form </h1>
+FirstName:<input type="text" name="Firstname"><br>
+LastName:<input type="text" name="Lastname"><br>
+EmailId:<input type="text" name="emailid"><br>
+<intput type="submit" value="Register">
+</center>
+</body>
+</html>

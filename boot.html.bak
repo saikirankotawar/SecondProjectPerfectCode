@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Case</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+	
+
+
+</head>
+<body>
+<!-- Preloader -->
+<div id="preloader">
+	<div id="status">&nbsp;</div>
+</div>
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container topcontaine_r">
+	<div class="topwrap shadoe">
+	<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar bar1"></span>
+<span class="icon-bar bar2"></span>
+<span class="icon-bar bar3"></span>
+</button>
+
+ <a class="navbar-brand" href="http://www.smartron.com/home"><img src="http://www.smartron.com/images/home/logo.png" class="img-responsive" alt="" /></a>
+	</div>
+   
+	<div id="main-collapse" class="collapse navbar-collapse">
+	  <ul id="menu_one" class="nav navbar-nav font_medium">		
+		<li id="main_menu_two"><a href="http://www.smartron.com/tphone">AboutUs</a></li>
+		<li id="main_menu_three">Sign Up</li>
+		<li id="main_menu_four"><a href="http://www.smartron.com/tronx">Login</a></li>		
+		<li id="main_menu_six">
+		<a href="http://www.smartron.com/about">		
+		Services
+		</a>
+		</li>	
+	  </ul>	
+  <div class="socialtop row">
+	<a href="https://www.facebook.com/" target="_blank" id="icon_fb"></a>
+	<a href="https://twitter.com/" target="_blank" id="icon_tw"></a>
+	<a href="https://www.linkedin.com/company/" target="_blank" id="icon_ln"></a>
+	<a href="https://www.youtube.com/" target="_blank" id="icon_yt"></a>
+	</div>
+
+
+</body>
+</html>

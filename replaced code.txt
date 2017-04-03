@@ -1,0 +1,6 @@
+<h4>Great things in business are never done by one person. They're done by a team of people.
+</h4>     
+      <center><img src="Resources/images/connectingpeople.png" style="width:500; height:500" ></center>
+
+
+image connecting people

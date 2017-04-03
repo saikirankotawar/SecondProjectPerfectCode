@@ -1,0 +1,4 @@
+drivername=oracle.jdbc.driver.OracleDriver
+URL=jdbc:oracle:thin:@localhost:1521:XE
+username:system
+password:system

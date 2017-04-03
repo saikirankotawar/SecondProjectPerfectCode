@@ -1,0 +1,4 @@
+mvn archetype:generate -DgroupId=com.niit -DartifactId=collabarationbackend -DarchetypeArtifactId=maven-archetype-webapp
+
+
+mvn eclipse:eclipse

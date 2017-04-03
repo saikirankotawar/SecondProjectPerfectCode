@@ -1,0 +1,255 @@
+Data Structures:
+-----------------
+
+*  Organizing the data in a structured format.
+
+Collection Framework is a simplified DS.
+
+* In CF, Data will be stored, retrieved and manipulated
+using objects only.
+
+Disadvantages of Arrays:
+1. fixed size
+2. same type of data
+3. no predefined methods
+4.complexity.
+
+
+* DS: add,remove,search,sort.....
+
+Collection(I):Which provides the basic methods used in DS.
+
+
+* CF is divided in to two types:
+
+1. CF storing only values(objects/elements)
+
+2. CF storing keys and values
+
+
+1. CF storing only values(objects/elements):
+
+Collection(I): Root interface in CF.
+
+
+Set(I)--> HashSet,LinkedHashSet,TreeSet
+
+List(I)->ArrayList,LinkedList and Vector
+
+
+HashSet:
+
+import java.util.HashSet;
+
+public class HashSetEx {
+	public static void main(String[] args) {
+		HashSet hs=new HashSet();//container
+		hs.add(10);// new Integer(10);
+		hs.add(20);
+		hs.add("hyderabad");
+		hs.add(false);
+		hs.add(20);
+		hs.add("hyderabad");
+		hs.add(false);
+		hs.add(800);
+		System.out.println("elements:"+hs);
+		System.out.println(hs.size());
+		System.out.println(hs.contains(8000));
+	}
+	}
+
+
+// Insertion order is not guaranteed.
+// duplicate elements are not allowed.
+//we can add any type of object.
+// internally uses HashMap.
+
+	
+
+
+LinkedHashSet:
+
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+
+public class LinkedHashSetEx {
+	public static void main(String[] args) {
+		LinkedHashSet hs=new LinkedHashSet();//container
+		hs.add(10);// new Integer(10);
+		hs.add(20);
+		hs.add("hyderabad");
+		hs.add(false);
+		hs.add(20);
+		hs.add("hyderabad");
+		hs.add(false);
+		hs.add(800);
+		System.out.println("elements:"+hs);
+		System.out.println(hs.size());
+		System.out.println(hs.contains(8000));
+	}
+	}
+
+// LinkedHashSet extends HashSet
+// Insertion order is guaranteed.
+// duplicate elements are not allowed.
+//we can add any type of object.
+// internally uses HashMap.
+
+	
+	
+TreeSet:
+
+
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.TreeSet;
+
+public class TreeSetEx {
+	public static void main(String[] args) {
+		 TreeSet set=new TreeSet();
+		 set.add(100);
+		 set.add(10);
+		 set.add(900);
+		 set.add(0);
+		 set.add(1000);
+		 set.add(100);
+		 set.add(10);
+		 set.add(900);
+		 set.add(0);
+		 set.add(1000);
+		 System.out.println(set);
+		 
+	}
+	}
+// TS allows only one type of elements.
+// TS gives sorting order
+// TS does not allow duplicate values
+// TS gives natural sorting order(ASCENDING)
+
+
+	
+
+
+
+ArrayList:
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.TreeSet;
+
+public class ArrayListEx {
+	public static void main(String[] args) {
+		 ArrayList al=new ArrayList();
+		 al.add("hyderbad");
+		 al.add(100);
+		 al.add("hyderabad");
+		 al.add(100);
+		 System.out.println(al);
+		 System.out.println(al.contains(100));
+		 al.add(1, "check");
+		 System.out.println(al);
+		 System.out.println(al.get(1));
+		 
+	}
+	}
+//Insertion order is guaranteed
+//duplicate values are allowed
+//allows different types of elements
+//arraylist can be grown
+//is not synchronized.
+
+
+
+vector:
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.TreeSet;
+import java.util.Vector;
+
+public class VectorEx {
+	public static void main(String[] args) {
+		 Vector al=new Vector();
+		 al.add("hyderbad");
+		 al.add(100);
+		 al.add("hyderabad");
+		 al.add(100);
+		 System.out.println(al);
+		 System.out.println(al.contains(100));
+		 al.add(1, "check");
+		 System.out.println(al);
+		 System.out.println(al.get(1));
+		 
+	}
+	}
+//Insertion order is guaranteed
+//duplicate values are allowed
+//allows different types of elements
+//vector can be grown
+//is  synchronized.
+
+
+	
+
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.LinkedList;
+import java.util.TreeSet;
+import java.util.Vector;
+
+public class LinkedListEx {
+	public static void main(String[] args) {
+		 LinkedList al=new LinkedList();
+		 al.add("hyderbad");
+		 al.add(100);
+		 al.add("hyderabad");
+		 al.add(100);
+		 System.out.println(al);
+		 System.out.println(al.contains(100));
+		 al.add(1, "check");
+		 System.out.println(al);
+		 System.out.println(al.get(1));
+		 
+	}
+	}
+//Insertion order is guaranteed
+//duplicate values are allowed
+//allows different types of elements
+//LinkedList can be grown
+// will be used when frequent operation is  adding the elements
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

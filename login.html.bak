@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+ </head>
+ <body>
+  <form action="Login">
+ emailid: <input type:"email id" name="emailid">
+ password:<input type:"password" name="password">
+ <input type:"submit" value="submit">
+ </body>
+</html>
